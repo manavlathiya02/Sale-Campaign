@@ -1,4 +1,6 @@
 
+Sale-Campaign
+  
 • Technologies Used: Java, Spring Boot, MySQL
 
 • Developed a robust Sale Campaign Managment System using Spring Boot, enabling real-time price adjustments to optimize sales oversight and enhance the effectiveness of promotional campaigns.
